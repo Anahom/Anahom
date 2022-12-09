@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anahom
+- 👋 Hi, I’m Mohanapriya
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning OOP
 - 💞️ I’m looking to collaborate on ...
