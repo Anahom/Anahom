@@ -18,5 +18,4 @@ Optimistic and solution-oriented **Software Development Engineer** with over **1
 📫 **Let's Connect!**
 - **Email**: priyasolomon234@gmail.com
 - **Phone**: +91 97906 27033
-- **GitHub**: [[Your GitHub Profile](https://github.com/Anahom)](#)
-- **LinkedIn**: [[Your LinkedIn Profile](https://www.linkedin.com/in/mohana-priya-s-21059a20b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)
+- **LinkedIn**: [[LinkedIn Profile](https://www.linkedin.com/in/mohana-priya-s-21059a20b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](#)
