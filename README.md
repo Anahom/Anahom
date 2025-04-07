@@ -1,6 +1,7 @@
 Hi there! I'm Mohana Priya S 👋
 
 🚀 About Me
+
 Optimistic and solution-oriented **Software Development Engineer** with over **1 year** of professional experience in **C#, .NET framework, SQL, and Azure technologies**. Passionate about leveraging **AI and ML** for real-world applications. I am always eager to learn and explore cutting-edge technologies to build scalable and efficient solutions.
 
 🛠 Tech Stack
